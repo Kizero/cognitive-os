@@ -9,6 +9,14 @@
 
 ---
 
+## 编译引擎选择
+
+**首次编译默认使用 `shen-reading` 引擎**。详见 `library/README.md`。
+
+meta.md 的 YAML header 中 `engine_version` 字段记录实际使用的引擎及版本（如 `shen-v3.4`）。
+
+---
+
 ## 运行模式
 
 ### 模式 A：新建框架文件
